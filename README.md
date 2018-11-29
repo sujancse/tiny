@@ -4,6 +4,11 @@ NPM package test purposes only.
 ![npm (scoped)](https://img.shields.io/npm/v/@sujancse/tiny.svg)
 ![license (scoped)](https://img.shields.io/github/license/sujancse/tiny.svg)
 
+# Installation
+```
+npm i @sujancse/tiny
+```
+
 # Usage
 ```
 const tiny = require("@bamblehorse/tiny");
